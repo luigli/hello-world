@@ -1,0 +1,2 @@
+Formatos de fichero admitidos
+=============================
